@@ -12,7 +12,6 @@ Working on real-world projects and contributing to open-source initiatives.
 📫 Let's Connect
 **LinkedIn:** https://www.linkedin.com/in/vigneshs2009/
 **Email:** S.vigneshgl@gmail.com
-Feel free to check out my projects and reach out if you’re interested in discussing data science or potential collaborations.
 
 Have attached My previous project source code and report. 
 
