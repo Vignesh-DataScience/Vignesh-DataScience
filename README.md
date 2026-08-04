@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vignesh
-- 👀 I’m interested in Freelancing
+
 
 **- I'm currently diving deep into the world of Data Science at the Texas McCombs School of Business. 🚀 My passion lies in transforming data into actionable insights and solving complex problems through analytical techniques.**
 
