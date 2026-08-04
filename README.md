@@ -3,7 +3,7 @@
 
 **- I'm currently diving deep into the world of Data Science at the Texas McCombs School of Business. 🚀 My passion lies in transforming data into actionable insights and solving complex problems through analytical techniques.**
 
-**📚 Currently Learning**
+
 **Data Science:** From machine learning algorithms to data visualization.
 **Tools & Technologies:** Python, SQL, Tableau, and more.
 💡 What I'm Excited About
